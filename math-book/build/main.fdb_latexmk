@@ -1,17 +1,21 @@
 # Fdb version 4
-["xdvipdfmx"] 1778444109.29594 "build/main.xdv" "build/main.pdf" "build/main" 1778444109.4511 0
-  "build/main.xdv" 1778444109.26043 21056 5a288a8db7f8ced2fabbc51892c7d16b "xelatex"
+["xdvipdfmx"] 1778449674.39888 "build/main.xdv" "build/main.pdf" "build/main" 1778449674.51965 0
+  "build/main.xdv" 1778449674.36214 52904 961ec85e308149fdcb38bca3ed5b9bc2 "xelatex"
   (generated)
   "build/main.pdf"
   (rewritten before read)
-["xelatex"] 1778444108.50988 "/home/Luca/Desktop/math-book/main.tex" "build/main.xdv" "main" 1778444109.44984 0
-  "/home/Luca/Desktop/math-book/main.tex" 1778444108.30024 3259 9dd9fcf103419d89c1bab7d4ad7d2360 ""
+["xelatex"] 1778449673.64904 "/home/Luca/Desktop/intro-to-hs-math/math-book/main.tex" "build/main.xdv" "main" 1778449674.51902 0
+  "/home/Luca/Desktop/intro-to-hs-math/math-book/main.tex" 1778446740.56167 3330 fac57e0ec10e3c7a8a4f71a2316460dd ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty" 1591045760 12594 0d51ac3a545aaaa555021326ff22a6cc ""
   "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1654720880 2222 78b930a5a6e3dc2ac69b78c2057b94d7 ""
   "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty" 1654720880 4173 c989ee3ced31418e3593916ab26c793a ""
   "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty" 1654720880 88393 1adf6fa3f245270d06e3d4f8910f7fc5 ""
   "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty" 1654720880 4474 f04cd1cc7bd76eb033e6fb12eb6a0d77 ""
   "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty" 1654720880 2444 70065bddd85997dc1fd0bb7ae634e5fa ""
-  "/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo" 1775001600 8285 1b093a7880310fd335493621f5803fd7 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo" 1775001600 8288 112ab7cde007e881d9e0607234536be3 ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/book.cls" 1775001600 23268 e47ccb36cfcf2953d1028f31ec508224 ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty" 1775001600 14741 4a117911951ff752ec1722fc562b3fda ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty" 1775001600 5119 4ce42f43368f652f9c9522d943cce8e4 ""
@@ -29,9 +33,13 @@
   "/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty" 1580422878 1474 aba4cc64ac109084e74e3e749fbcd54e ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1775001600 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1776013943 11130548 e295ace7f2eddafb29b454512c3c049a ""
-  "build/main.aux" 1778444109.25943 32 c81c40425fbb5e93b90fba65da0b5e61 "xelatex"
-  "main.tex" 1778444108.30024 3259 9dd9fcf103419d89c1bab7d4ad7d2360 ""
+  "build/chapters/chapter1.aux" 1778449674.36147 725 ce7df925862703d2e73554c380bcba9a "xelatex"
+  "build/main.aux" 1778449674.36147 63 b6f9f722c4cf05eb762341ab99fec87a "xelatex"
+  "chapters/chapter1.tex" 1778449673.45089 3362 b64e20f4d20bbd6423d22d2f4c864143 ""
+  "main.tex" 1778446740.56167 3330 fac57e0ec10e3c7a8a4f71a2316460dd ""
+  "preamble.tex" 1778448694.68081 81 b1d7737f3568f99c88d70b3a9fee2fb1 ""
   (generated)
+  "build/chapters/chapter1.aux"
   "build/main.aux"
   "build/main.log"
   "build/main.xdv"

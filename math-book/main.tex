@@ -1,9 +1,9 @@
-\documentclass[12pt]{book} % class and options
+\documentclass{book} % MUST be first
+\input{preamble.tex}% class and options
 \usepackage{fontspec}
 \setmainfont{Libertinus Serif}
 \usepackage{unicode-math}
 \setmathfont{Libertinus Math}   % load useful packages
-
 \begin{document}
 \begin{center}
 \Large{High School Mathematics: An Intuitive Introduction}
@@ -25,7 +25,7 @@ This is because the goal of this book is not only to teach you math, but also to
 \begin{center}Contents:\end{center}
 \small{Unit 1: Algebra I}
 \newline
-\indent \footnotesize{Chapter 1: Expressions}
+\indent \footnotesize{Chapter 1: Expressions and Equations}
 \newline
 \indent \footnotesize{Chapter 2: Graphs of Lines}
 \newline
@@ -83,4 +83,5 @@ This is because the goal of this book is not only to teach you math, but also to
 \newline
 \indent \footnotesize{Chapter 26: Exploring Functions}
 % IDK what to put here
+\include{chapters/chapter1}
 \end{document}
