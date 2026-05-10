@@ -1,0 +1,38 @@
+# Fdb version 4
+["xdvipdfmx"] 1778444109.29594 "build/main.xdv" "build/main.pdf" "build/main" 1778444109.4511 0
+  "build/main.xdv" 1778444109.26043 21056 5a288a8db7f8ced2fabbc51892c7d16b "xelatex"
+  (generated)
+  "build/main.pdf"
+  (rewritten before read)
+["xelatex"] 1778444108.50988 "/home/Luca/Desktop/math-book/main.tex" "build/main.xdv" "main" 1778444109.44984 0
+  "/home/Luca/Desktop/math-book/main.tex" 1778444108.30024 3259 9dd9fcf103419d89c1bab7d4ad7d2360 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1654720880 2222 78b930a5a6e3dc2ac69b78c2057b94d7 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty" 1654720880 4173 c989ee3ced31418e3593916ab26c793a ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty" 1654720880 88393 1adf6fa3f245270d06e3d4f8910f7fc5 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty" 1654720880 4474 f04cd1cc7bd76eb033e6fb12eb6a0d77 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty" 1654720880 2444 70065bddd85997dc1fd0bb7ae634e5fa ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo" 1775001600 8285 1b093a7880310fd335493621f5803fd7 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/book.cls" 1775001600 23268 e47ccb36cfcf2953d1028f31ec508224 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty" 1775001600 14741 4a117911951ff752ec1722fc562b3fda ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty" 1775001600 5119 4ce42f43368f652f9c9522d943cce8e4 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def" 1775001600 8090 4db9ed5f90a74e5a2796a28b05fc0731 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def" 1775001600 26445 9ed4a9401f29cbb58ef6909cd5aec01f ""
+  "/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty" 1642282977 162076 2f6d31c4632f2730c57b9c0fda038e15 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg" 1532898934 549 c4adac819276241fea8eb79c5ab7b99e ""
+  "/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty" 1642282977 1656 7e824878bad4df5a3e8bba4e463d9126 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def" 1673989714 32346 879686206fa618f4f5073ad4bd48feda ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty" 1677186603 6107 5cfea8a675c58918b8c04be10261e48c ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1675461949 4674 257c150d9d5c2fbc229303c8beaf6228 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1675461949 6812 3c152a1c8d562d7b7291c4839b61a5c3 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex" 1550269384 241265 52e61157376139e230f2a9ef4be9503f ""
+  "/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty" 1580422878 132064 7222bed5bbafecb5b7690ac9561b42d1 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty" 1580422878 1474 aba4cc64ac109084e74e3e749fbcd54e ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1775001600 40900 887e0dc8cac988a9e9c574af364cf837 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1776013943 11130548 e295ace7f2eddafb29b454512c3c049a ""
+  "build/main.aux" 1778444109.25943 32 c81c40425fbb5e93b90fba65da0b5e61 "xelatex"
+  "main.tex" 1778444108.30024 3259 9dd9fcf103419d89c1bab7d4ad7d2360 ""
+  (generated)
+  "build/main.aux"
+  "build/main.log"
+  "build/main.xdv"
+  (rewritten before read)
